@@ -3,3 +3,5 @@ no feature added;
 feature1 add;
 
 feature2 add;
+
+do some changes while branch feature2 is under working.
